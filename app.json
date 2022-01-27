@@ -45,10 +45,9 @@
         "LOG_CHANNEL": {
             "description": "Bot Logs,Give a channel id with -100xxxxxxx",
             "required": true
-        },
 
 
-        },
-        DATABASE_URI": (
+       },
+        "DATABASE_URI": (
              "description": " Database Uri Enter",
              "required": Uri
