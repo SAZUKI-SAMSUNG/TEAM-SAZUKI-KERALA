@@ -30,7 +30,7 @@
             "description": "Get this value from https://my.telegram.org",
             "value": ""
         },
-        "CHANNELS": {
+        "FILE_ADD_CHANNELS": {
             "description": "Username or ID of channel or group. Separate multiple IDs by space.",
             "value": ""
         },
@@ -50,10 +50,6 @@
             "description": "Bot Logs,Give a channel id with -100xxxxxxx",
             "value": ""
         },
-        "SUPPORT_CHAT": {
-            "description": "Username of a Support Group / ADMIN. ( Should be username without @ and not ID)",
-            "value": ""
-        },
         "AUTH_USERS": {
             "description": "Username or ID of users to give access of inline search. Separate multiple users by space.\nLeave it empty if you don't want to restrict bot usage.",
             "value": "",
@@ -66,12 +62,12 @@
         },   
         "USE_CAPTION_FILTER": {
             "description": "Whether bot should use captions to improve search results. (True False)",
-            "value": "False",
+            "value": "True",
             "required": false
         },
         "CUSTOM_FILE_CAPTION": {
             "description": "A custom file caption for your files. formatable with , file_name, file_caption, file_size, Read Readme.md for better understanding.",
-            "value": "",
+            "value": "Telegram_files",
             "required": false
         },
         "DATABASE_URI": {
