@@ -1,0 +1,54 @@
+{
+    "name": "The Rock",
+    "description": "When you going to send file on telegram channel this bot will save that in database, So you can search that easily in inline mode",
+    "stack": "container",
+    "keywords": [
+      "telegram",
+      "auto-filter",
+      "filter",
+      "best",
+      "indian",
+      "pyrogram",
+      "media",
+      "search",
+      "channel",
+      "index",
+      "inline"
+    ],
+    "website": "https://github.com/SAZUKI-SAMSUNG/TEAM-SAZUKI-KERALA",
+    "repository": "https://github.com/SAZUKI-SAMSUNG/TEAM-SAZUKI-KERALA",
+    "env": {
+        "BOT_TOKEN": {
+            "description": "Your bot token.",
+            "required": true
+        },
+        "API_ID": {
+            "description": "Get this value from https://my.telegram.org",
+            "required": true
+        },
+        "API_HASH": {
+            "description": "Get this value from https://my.telegram.org",
+            "required": true
+        },
+        "CHANNELS": {
+            "description": "Username or ID of channel or group. Separate multiple IDs by space.",
+            "required": false
+        },
+        "ADMINS": {
+            "description": "Username or ID of Admin. Separate multiple Admins by space.",
+            "required": true
+        },
+        "PICS": {
+            "description": "Add some telegraph link of pictures .",
+            "required": false
+        },
+        "LOG_CHANNEL": {
+            "description": "Bot Logs,Give a channel id with -100xxxxxxx",
+            "required": true
+        },
+
+
+        },
+        DATABASE_URI": (
+             "description": " Database Uri Enter",
+             "required": Uri
