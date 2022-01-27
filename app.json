@@ -42,11 +42,11 @@
            "description":  "Give Your Bot Controll Broadcast Id",
            "value": ""
         },
-        "PICS": {
+        "BOT_PICS": {
             "description": "Add some telegraph link of pictures .",
             "value": ""
         },
-        "LOG_CHANNEL": {
+        "USER_START_ID_CHANNEL": {
             "description": "Bot Logs,Give a channel id with -100xxxxxxx",
             "value": ""
         },
@@ -55,19 +55,19 @@
             "value": "",
             "required": false
         },
-        "AUTH_CHANNEL": {
+        "FORCE_SUB": {
             "description": "ID of channel.Make sure bot is admin in this channel. Without subscribing this channel users cannot use bot.",
             "value": "",
             "required": false
         },   
-        "USE_CAPTION_FILTER": {
+        "CAPTION_FILTER": {
             "description": "Whether bot should use captions to improve search results. (True False)",
             "value": "True",
             "required": false
         },
-        "CUSTOM_FILE_CAPTION": {
+        "FILE_CAPTION": {
             "description": "A custom file caption for your files. formatable with , file_name, file_caption, file_size, Read Readme.md for better understanding.",
-            "value": "Telegram_files",
+            "value": "",
             "required": false
         },
         "DATABASE_URI": {
