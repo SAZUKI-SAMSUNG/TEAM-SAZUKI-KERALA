@@ -1,1 +1,2 @@
-# TEAM-SAZUKI-KERALA
+### Deploy to Heroku
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SAZUKI-SAMSUNG/TEAM-SAZUKI-KERALA)
