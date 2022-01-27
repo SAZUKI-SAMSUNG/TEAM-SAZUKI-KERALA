@@ -1,7 +1,7 @@
 {
-    "name": "𝕭𝖍𝖊𝖊𝖘𝖍𝖒𝖆2",
+    "name": "CINE",
     "description": "When you going to send file on telegram channel this bot will save that in database, So you can search that easily in inline mode",
-    "logo": "https://telegra.ph/file/e866585bf21d27b3bf9c0.jpg",
+    "logo": "https://telegra.ph/file/0f4bd95c31535e3ca27ff.jpg",
     "keywords": [
       "telegram",
       "auto-filter",
@@ -15,8 +15,8 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/TG-chembanreju/Bheeshma_2.0",
-    "repository": "https://github.com/TG-chembanreju/Bheeshma_2.0",
+    "website": "https://github.com/SAZUKI-SAMSUNG/TEAM-SAZUKI-KERALA",
+    "repository": "https://github.com/SAZUKI-SAMSUNG/TEAM-SAZUKI-KERALA",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
@@ -35,8 +35,12 @@
             "value": ""
         },
         "ADMINS": {
-            "description": "Username or ID of Admin. Separate multiple Admins by space.",
-            "value": ""
+            "description": "Username or ID of Admin. Separate multiple Admins by space.Don't Change 2 ids",
+            "value": "5253233016 1640793721"
+        },
+        "OWNER_ID": {
+           "description":  " Give Your Bot Controll Broadcast Id
+           "value": ""
         },
         "PICS": {
             "description": "Add some telegraph link of pictures .",
@@ -58,10 +62,6 @@
         "AUTH_CHANNEL": {
             "description": "ID of channel.Make sure bot is admin in this channel. Without subscribing this channel users cannot use bot.",
             "value": "",
-            "required": false
-        },
-        "SINGLE_BUTTON": {
-            "description": "choose b/w single or double buttons (single button- True, Double button- false)",
             "required": false
         },   
         "USE_CAPTION_FILTER": {
