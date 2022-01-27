@@ -48,8 +48,8 @@
 
 
        },
-        "DATABASE_URI": (
+        "DATABASE_URI": {
              "description": " Database Uri Enter",
-             "required": Uri
+             "required": 
 
        },
