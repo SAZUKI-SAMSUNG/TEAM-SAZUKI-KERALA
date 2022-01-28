@@ -3,7 +3,7 @@
 </p>
   𝐂𝐋𝐈𝐂𝐊 𝐁𝐄𝐋𝐎𝐖 𝐈𝐌𝐀𝐆𝐄 𝐓𝐎 𝐃𝐄𝐏𝐋𝐎𝐘👇👇👇
 
-### Deploy to Heroku
+###Deploy to Heroku
 ![Deploy](https://heroku.com/deploy?template=https://github.com/SAZUKI-SAMSUNG/TEAM-SAZUKI-KERALA)
 
 - [x] Auto Filter
