@@ -99,3 +99,6 @@ Code released under [The GNU General Public License](LICENSE).
 ## credit 😍
 ##[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Credit-To-TEAM-KERALA!;)
 </p>
+
+### Deploy to Heroku
+![Deploy](https://heroku.com/deploy?template=https://github.com/SAZUKI-SAMSUNG/TEAM-SAZUKI-KERALA)
