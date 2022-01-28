@@ -4,7 +4,7 @@
   𝐂𝐋𝐈𝐂𝐊 𝐁𝐄𝐋𝐎𝐖 𝐈𝐌𝐀𝐆𝐄 𝐓𝐎 𝐃𝐄𝐏𝐋𝐎𝐘👇👇👇
 
 
-[![Deploy](https://telegra.ph/file/0f4bd95c31535e3ca27ff.jpg)](https://heroku.com/deploy?template=https://github.com/SAZUKI-SAMSUNG/TEAM-SAZUKI-KERALA))
+[![Deploy](https://telegra.ph/file/0f4bd95c31535e3ca27ff.jpg)](https://heroku.com/deploy?template=https://github.com/evamariatg/evamaria))
 
 - [x] Auto Filter
 - [x] Manuel Filter
