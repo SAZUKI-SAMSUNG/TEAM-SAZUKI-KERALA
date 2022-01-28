@@ -3,7 +3,7 @@
 </p>
 𝐂𝐋𝐈𝐂𝐊 𝐁𝐄𝐋𝐎𝐖 𝐃𝐄𝐏𝐋𝐎𝐘 𝐁𝐔𝐓𝐓𝐎𝐍👇👇
 
-![Deploy](https://heroku.com/deploy?template=https://github.com/SAZUKI-SAMSUNG/TEAM-SAZUKI-KERALA)
+[![Deploy](https://telegra.ph/file/030d96be7b1e03eb0e0e2.jpg)](https://heroku.com/deploy?template=https://github.com/SAZUKI-SAMSUNG/TEAM-SAZUKI-KERALA)
 - [x] Auto Filter
 - [x] Manuel Filter
 - [x] IMDB
