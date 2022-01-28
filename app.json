@@ -86,7 +86,8 @@
         },
         "SPELL_CHECK_REPLY": {
              "description":  "Google Check Spelling True/False",
-            "required": True
+             "value": "True",
+             "required": False
         }
     },
     "addons": [],
