@@ -1,10 +1,9 @@
 # CINEMA KOTTA
 ##[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=welcome+To+TEAM-SAZUKI-KERALA-𝚋𝚘𝚝!;created+by+𝑻𝑬𝑨𝑴+𝚂𝙰𝚉𝚄𝙺𝙸+𝙺𝙴𝚁𝙰𝙻𝙰!;A+simple+autofilter+Bot!;Auto+filter+with+double+button!;start+message+with+pic!;and+all+futures!)
 </p>
+𝐂𝐋𝐈𝐂𝐊 𝐁𝐄𝐋𝐎𝐖 𝐃𝐄𝐏𝐋𝐎𝐘 𝐁𝐔𝐓𝐓𝐎𝐍👇👇
 
-###Deploy to Heroku
-![Deploy](https://heroku.com/deploy?template=https://github.com/SAZUKI-SAMSUNG/TEAM-SAZUKI-KERALA))
-
+![Deploy](https://heroku.com/deploy?template=https://github.com/SAZUKI-SAMSUNG/TEAM-SAZUKI-KERALA)
 - [x] Auto Filter
 - [x] Manuel Filter
 - [x] IMDB
