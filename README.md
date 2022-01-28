@@ -87,17 +87,17 @@ logger - Get log file
 
 
 ## Thanks to 
-* [Pyrogram](https://github.com/pyrogram/pyrogram)
-* Original [Repo](https://github.com/Lallu-lallus/ALPHA_IMDB_BOT)
+* [Edit Repo](https://github.com/SAZUKI-SAMSUNG/TEAM-SAZUKI-KERALA)
+* Original [Repo](https://github.com/SAZUKI-SAMSUNG/TEAM-SAZUKI-KERALA)
 
 
 ## Support
-Contact Me On [Telegram](https://t.me/Pro_editor_tg)
+Contact Me On [Telegram](https://t.me/TEAM_KERALA)
 
-[Update Channel](https://t.me/Team_annaben)
+[Update Channel](https://t.me/new_movie_cinema_kotta)
 
 ## License
 Code released under [The GNU General Public License](LICENSE).
 ## credit 😍
-##[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Credit-To-BHARATH!;)
+##[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Credit-To-TEAM-KERALA!;)
 </p>
