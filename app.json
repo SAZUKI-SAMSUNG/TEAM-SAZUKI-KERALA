@@ -83,6 +83,10 @@
             "description": "The maximum amount of time in seconds that the result of the inline query may be cached on the server",
             "value": "300",
             "required": false
+        },
+        "SPELL_CHECK_REPLY": {
+             "description":  "Google Check Spelling True/False",
+            "required": True
         }
     },
     "addons": [],
