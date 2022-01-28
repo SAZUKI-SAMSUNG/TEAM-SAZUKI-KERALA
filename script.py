@@ -11,6 +11,7 @@ class script(object):
 ║┣⪼ Ⓓ︎Ⓔ︎Ⓥ︎1 - <a href="https://t.me/DEVOLOPERS"> 𝗦𝗔𝗭𝗨𝗞𝗜 𝗧𝗘𝗔𝗠 𝗞𝗘𝗥𝗔𝗟𝗔 1 </a>
 ║┣⪼ Ⓓ︎Ⓔ︎Ⓥ︎2 - <a href="https://t.me/DEVKILLEROp"> 𝗦𝗔𝗭𝗨𝗞𝗜 𝗧𝗘𝗔𝗠 𝗞𝗘𝗥𝗔𝗟𝗔 2 </a>
 ║┣⪼ ᴄʀᴇᴀᴛᴇʀ - <a href="https://t.me/TEAM_KERALA"> ➪𝚂𝙰𝚉𝚄𝙺𝙸ㅤ𝚂𝙰𝙼𝚂𝚄𝙽𝙶✞︎ </a>
+║┣⪼ 𝑯𝑬𝑳𝑷 - <a href="https://t.me/pushpa_Reju"> 𝙏𝙂 𝙋𝙐𝙎𝙃𝙋𝘼 𝙍𝙀𝙅𝙐🇮🇳[OFFLINE] </a>
 ║┣⪼ 𝓛𝓲𝓫𝓻𝓪𝓻𝓻𝔂 - 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼
 ║┣⪼ 𝓛𝓪𝓷𝓰𝓾𝓪𝓰𝓮 - 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹
 ║┣⪼ 𝓓𝓪𝓽𝓪 𝓑𝓪𝓼𝓮 - 𝙼𝙾𝙽𝙶𝙾 𝙳𝙱
