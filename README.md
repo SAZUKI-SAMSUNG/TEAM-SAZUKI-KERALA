@@ -1,11 +1,11 @@
-# MW_Movies_Bot
+# CINIMA KOTTA
 Very Sempile Bot Auto Filter bot
 ##[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=welcome+To+𝙼𝙾𝚅𝙸𝙴𝚂-𝚆𝚘𝚛𝚕𝚍-𝙵𝚒𝚕𝚝𝚎𝚛-𝚋𝚘𝚝!;created+by+𝑻𝑬𝑨𝑴+𝙼𝚄𝚁𝙰𝙻𝙸+𝙱𝙷𝙰𝚁𝙰𝚃𝙷!;A+simple+autofilter+Bot!;Auto+filter+with+double+button!;start+message+with+pic!;and+all+futures!)
 </p>
 # 𝐂𝐋𝐈𝐂𝐊 𝐁𝐄𝐋𝐎𝐖 𝐈𝐌𝐀𝐆𝐄 𝐓𝐎 𝐃𝐄𝐏𝐋𝐎𝐘👇👇👇
 
 
-[![Deploy](https://telegra.ph/file/d4c003e9d276c26517e69.jpg)](https://heroku.com/deploy?template=https://github.com/muralitheprogrammer/Bot-Bot)
+[![Deploy](https://telegra.ph/file/0f4bd95c31535e3ca27ff.jpg)](https://heroku.com/deploy?template=https://github.com/muralitheprogrammer/Bot-Bot)
 
 - [x] Auto Filter
 - [x] Manuel Filter
@@ -22,10 +22,10 @@ Very Sempile Bot Auto Filter bot
 
 
 
-<h3 align="center">ℂ𝕆ℕ𝕋𝔸ℂ𝕋<img align="center" src="https://github.com/PANDITHAN/PANDITHAN/blob/main/assets/Handshake.gif" height="33px" /></h3>
+<h3 align="center">ℂ𝕆ℕ𝕋𝔸ℂ𝕋<img align="center" src="https://github.com/SAZUKI-SAMSUNG/TEAM-SAZUKI-KERALA" height="33px" /></h3>
 <p align="center">
-<a href="https://t.me/Mw_Murali"><img alt="Telegram" src="https://img.shields.io/badge/𝙳𝙴𝚅 1-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-<a href="https://t.me/commanidiot"><img alt="Telegram" src="https://img.shields.io/badge/𝙳𝙴𝚅 2-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+<a href="https://t.me/pushpa_Reju"><img alt="Telegram" src="https://img.shields.io/badge/𝙳𝙴𝚅 1-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+<a href="https://t.me/TEAM_KERALA"><img alt="Telegram" src="https://img.shields.io/badge/𝙳𝙴𝚅 2-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 </p>
 
 
@@ -36,21 +36,6 @@ Very Sempile Bot Auto Filter bot
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-###ANNA BEN REPO
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/muralitheprogrammer/Bot-Bot)
-### Hard Way
 
 ```bash
 # Create virtual environment
